@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Dev and AI
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on nothin'
-- 📫 How to reach me insta - wiseguy_._
+- 📫 How to reach me on gram - wiseguy_._
 
 <!---
 rahulchauhan-dev/rahulchauhan-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

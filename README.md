@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulchauhan-dev
-- 👀 I’m interested in Web Dev and AI
+- 👀 I’m interested in Web Development and Artificial Intelligence
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on nothin'
 - 📫 How to reach me on gram - wiseguy_._

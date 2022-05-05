@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulchauhan-dev
 - 👀 I’m interested in Web Dev and AI
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Java Full Stack
 - 💞️ I’m looking to collaborate on nothin'
 
 
